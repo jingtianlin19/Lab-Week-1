@@ -37,9 +37,9 @@ This is an image of [Bichon Frise](https://www.google.com/search?q=bichon+frise&
 
 1. ice cream
     -chocolate chips
-      -banana
-
+2. movie
+    -horror movie
+    
 - [x] task 1
-  
-- [] task 2
+  - [] task 2
 
