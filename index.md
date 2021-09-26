@@ -36,9 +36,10 @@ This is an image of [Bichon Frise](https://www.google.com/search?q=bichon+frise&
 3.basketball
 
 1. ice cream
-   -chocolate chips
+- chocolate chips
+  - banana
 2. movie
-   -horror movie
+- horror movie
     
 - [x] task 1
 - [] task 2
