@@ -10,8 +10,6 @@
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bichon_Fris%C3%A9_-_studdogbichon.jpg/1920px-Bichon_Fris%C3%A9_-_studdogbichon.jpg)
-
 UCSD:
 > math-cs major
 > warren colelge
