@@ -8,7 +8,7 @@
 
 **extremely _important_ text** 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 UCSD:
 > math-cs major
@@ -38,8 +38,8 @@ This is an image of [Bichon Frise](https://www.google.com/search?q=bichon+frise&
 1. ice cream
    
     -chocolate chips
-
         -banana
 - [x] task 1
+  
 - [] task 2
 
