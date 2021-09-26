@@ -42,5 +42,5 @@ This is an image of [Bichon Frise](https://www.google.com/search?q=bichon+frise&
 - horror movie
     
 - [x] task 1
-[] task 2
+- [ ] task 2
 
